@@ -17,7 +17,7 @@ The best way to get a sense of what's currently going on in the lab is to check 
 
 ### Lab Members
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kcr-lab.github.io/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 ### Lab Culture
 

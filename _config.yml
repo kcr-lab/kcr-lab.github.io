@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               "KCR LAB"
+title:              "KCR Lab at the Chittagong University of Engineering & Technology"
+description:        "The KCR Lab is a computational research group at the Chittagong University of Engineering & Technology."
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://kcr-lab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -34,8 +34,8 @@ nav:
     # href:           "/blog"
 #   - name:           "abstracts"
 #     href:           "/abstracts"
-  - name:           "lab teachings"
-    href:           "/presentations"
+  # - name:           "lab teachings"
+  #   href:           "/presentations"
 
 # Sass
 sass:
