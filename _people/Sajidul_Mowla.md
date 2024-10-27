@@ -9,7 +9,7 @@ title: Md Sajidul Mowla
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<h4>Administrative Assistant, Research Assistant</h4>
+<h4>Administrative & Research Assistant</h4>
 
 <a href="https://github.com/sajid73"><i class="fa fa-github"></i> Github</a><br>
 <a href="https://www.linkedin.com/in/sajid73"><i class="fa fa-linkedin"></i> LinkedIn</a>
