@@ -1,13 +1,15 @@
 ---
 name: Md. Ayon Mia
 position: gradstudent
-avatar: Ayon_Mia.png
+avatar: ayon_mia.jpg
 twitter:
 joined: 2023
 title: Md. Ayon Mia
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<h4>Co-Investigator, Research Assistant</h4>
 
 <a href="https://github.com/Ayon128"><i class="fa fa-github"></i> Github</a><br>
 <a href="https://www.linkedin.com/in/md-ayon-rahman"><i class="fa fa-linkedin"></i> LinkedIn</a>
@@ -20,7 +22,7 @@ title: Md. Ayon Mia
 
 ### Bio
 
-I am a graduate Computer Science & Engineering student with a strong interest in machine learning, deep learning, and natural language processing. I am enthusiastic about exploring new technologies and eager to apply my knowledge in innovative ways. As I approach graduation, I am excited to apply my skills and knowledge to contribute to the ever-changing tech landscape.
+A proud graduate of Chittagong University of Engineering & Technology (CUET), I’m currently shaping young minds as a Lecturer in the Department of Computer Science and Engineering at Dhaka International University. With a boundless passion for technology and discovery, I dive into the realms of Data Science, Machine Learning, Deep Learning, Natural Language Processing (NLP), Audio Processing, Multimodal Systems, and Large Language Models (LLMs). Driven by curiosity, I thrive on expanding my horizons through extracurricular pursuits, continuously exploring and embracing the endless possibilities within the world of tech and knowledge.
 
 ### Research Interests
 

@@ -1,14 +1,14 @@
 ---
 name: Dr. Muhammad Ibrahim Khan
 position: pi
-avatar: Muhammad_Ibrahim_Khan.jpg
-twitter: KordingLab
+avatar: ibrahim-khan.png
+twitter: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Professor, Chittagong University of Engineering & Technology_<br>
-- _Science coach. Collaborator._
+<!-- - _Science coach. Collaborator._ -->
 
 <i class="fa fa-envelope-o"></i> `muhammad_ikhan@cuet.ac.bd`
 
