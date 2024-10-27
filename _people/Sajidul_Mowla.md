@@ -1,7 +1,7 @@
 ---
 name: Md Sajidul Mowla
 position: gradstudent
-avatar: sajidul-mowla.png
+avatar: sajidul_mowla.png
 twitter:
 joined: 2023
 title: Md Sajidul Mowla
