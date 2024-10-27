@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Jordan Matelsky
 position: gradstudent
 avatar: jordan-matelsky.jpg
@@ -18,4 +18,4 @@ joined: 2021
 
 ### Research Interests
 
-The brain serves as an existence proof that high-efficiency, noise-robust computation is possible. What computational primitives can we borrow from biology to improve our machine learning tools?
+The brain serves as an existence proof that high-efficiency, noise-robust computation is possible. What computational primitives can we borrow from biology to improve our machine learning tools? -->

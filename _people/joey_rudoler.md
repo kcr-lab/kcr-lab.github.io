@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Joey Rudoler
 position: gradstudent
 avatar: joey_rudoler.jpg
@@ -20,4 +20,4 @@ Broadly interested in data, machine learning, and brains. I've done a lot of wor
 * Transfer learning / domain adaptation
 * Open science initiatives, esp. tools for data standardization and sharing. 
 
-jrudoler@wharton.upenn.edu
+jrudoler@wharton.upenn.edu -->

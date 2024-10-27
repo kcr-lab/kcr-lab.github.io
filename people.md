@@ -28,8 +28,8 @@ permalink: /people/
 <h3>Visiting Scholars</h3>
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
- {% elsif role == 'alumni' %}
-<h3>Alumni</h3>
+ <!-- {% elsif role == 'alumni' %}
+<h3>Alumni</h3> -->
 {% endif %}
 </div>
 
@@ -56,7 +56,7 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
+<!-- | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Tony Liu](https://tliutony.github.io/) | Graduate Student (2018-2024) | Assistant Professor of Computer Science, Mount Holyoke College |
 | [Xinyue Wang](https://www.charonwangg.com/) | Graduate Student (2021-2023) | PhD Student, Halıcıoğlu Data Science Institute, UCSD |
@@ -122,7 +122,7 @@ permalink: /people/
 | Nicholas Bowman | Rotation Student (Winter 2007) | Senior Data Scientist at IsoPlexis |
 | Taro Kiritani | Rotation Student (Winter 2007) | ExaWizards Inc. in Tokyo |
 | Rashmi Sarnaik | Rotation Student (Winter 2007) | Scientific Editor at Neuron |
-| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh |
+| Emily Oby | Rotation Student (Fall 2006) | Postdoc w/ Aaron Batista at University of Pittsburgh | -->
 
 {% endif %}
 {% endfor %}

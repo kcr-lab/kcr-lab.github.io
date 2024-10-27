@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Ansh Soni
 position: gradstudent
 avatar: Ansh_Soni.jpg
@@ -26,4 +26,4 @@ Ansh is interested in utilizing machine learning methods to better understand hu
 
 
 
-
+ -->

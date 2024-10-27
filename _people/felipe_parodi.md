@@ -1,4 +1,4 @@
----
+<!-- ---
 name: Felipe Parodi
 position: gradstudent
 avatar: felipe.jpg
@@ -24,4 +24,4 @@ Felipe Parodi, originally from Buenos Aires, Argentina, received his B.S. in Neu
 Currently a PhD candidate in Neuroscience, Felipe is mentored by Konrad Kording and Michael Platt. His research focus lies at the intersection of deep learning, wireless neurophysiology, and computer vision, aiming to unravel the neural representation of social primate gestures and touch.
 
 
-Visit his [webpage](https://felipe-parodi.github.io/) for a deeper dive or to have a chat!
+Visit his [webpage](https://felipe-parodi.github.io/) for a deeper dive or to have a chat! -->
