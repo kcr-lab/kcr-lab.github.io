@@ -36,14 +36,18 @@ Our research group is remarkably interdisciplinary. Our interests span NLP, Audi
 Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
 
 Since our lab includes several fields, we don't have big lab meetings with everyone. Instead, we engage in a number of practices to facilitate good communication in the lab. Currently these include
-0. Weekly 'lab teachings' where someone teaches a thing. http://kordinglab.com/2018/08/29/upcoming-lab-teaching.html
+0. Biweekly meeting held with all members
+0. Hands-on coding workshop are arranged in every week
+0. Discussion on latest research work published
+0. Knowladge sharing session with invited guest
+<!-- 0. Weekly 'lab teachings' where someone teaches a thing. http://kordinglab.com/2018/08/29/upcoming-lab-teaching.html
 0. 'One-on-ones'. Every semester everyone in the lab is expected to sit down with everyone else for an hour.
 0. Lab tea time. It's tea! And science. A 10-minute talk by someone about anything, including their current work.
 0. Coding overviews. Structured like the one-on-ones
 0. A lab hammock, hangboard, and art on loan from the Penn Museum
-0. Monday morning donuts @ 9:00am
+0. Monday morning donuts @ 9:00am -->
 
-Every week, more or less, we chat about current lab practices and sometimes vote on new things.
+<!-- Every week, more or less, we chat about current lab practices and sometimes vote on new things. -->
 
 <!-- ### Collaborators
 

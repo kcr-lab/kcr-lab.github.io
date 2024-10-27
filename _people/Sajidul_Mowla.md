@@ -9,9 +9,12 @@ title: Md Sajidul Mowla
 
 <!-- <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom"> -->
 
+<a href="https://github.com/sajid73"><i class="fa fa-github"></i> Github</a><br>
+<a href="https://www.linkedin.com/in/sajid73"><i class="fa fa-linkedin"></i> LinkedIn</a>
+
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `u1804100@student.cuet.ac.bd`<br>
+<i class="fa fa-envelope-o"></i>  `smsajid7300@gmail.com`<br>
 
 <hr>
 
