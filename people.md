@@ -45,8 +45,8 @@ permalink: /people/
           {% else %}
             <img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg">
           {% endif %}
-          <!-- <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a><br> -->
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}"><button>Bio</button></a>
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          <!-- <a class="name" href="{{ site.baseurl }}{{ profile.url }}"><button>Bio</button></a> -->
         </p>
       </div>    
     {% endif %}
