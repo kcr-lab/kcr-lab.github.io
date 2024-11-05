@@ -26,7 +26,7 @@ Golam Sarwar Md. Mursalin is pursuing my MASc in Computer Engineering at Memoria
 
 ### Research Interests
 
-Machine learning, Deep learning, Natural Language Processing, Multimodal, Audio Processing, Explanable AI, LLM
+NLP, Machine Translation, Multimodal AI, Explanable AI Document AI, LLMs, Computer Vision, Geo-Spatial Data Analysis
 
 
 Visit his [webpage](https://sites.google.com/view/golamsarwarmdmursalin/) for a deeper dive or to have a chat!
