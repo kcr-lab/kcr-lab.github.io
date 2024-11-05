@@ -9,7 +9,7 @@ title: Aminur Rahman
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-<h4>Co-Investigator, Research Assistant</h4>
+<h4>Co-Investigator, Research Associate</h4>
 
 <a href="https://github.com/aminurrahmanashik"><i class="fa fa-github"></i> Github</a><br>
 <a href="https://www.linkedin.com/in/aminur-rahman-642913161"><i class="fa fa-linkedin"></i> LinkedIn</a>
